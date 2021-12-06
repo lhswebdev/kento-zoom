@@ -1,5 +1,4 @@
 <script>
-  import { onMount } from 'svelte';
   import { peer, username, friendUsername } from './store.js';
 
   let inCall = false;
